@@ -21,6 +21,10 @@ public static void main(String[] args) {
 		e.printStackTrace();
 	} catch (SQLException e) {
 		e.printStackTrace();
+		
+		
+		
+		System.out.println("----------");
 	}
 }
 }
